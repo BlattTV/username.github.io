@@ -1,5 +1,0 @@
-C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\publish\aris.exe
-C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\publish\aris.dll
-C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\publish\aris.deps.json
-C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\publish\aris.runtimeconfig.json
-C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\publish\aris.pdb
