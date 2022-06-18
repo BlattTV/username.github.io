@@ -1,0 +1,15 @@
+C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\aris.exe
+C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\aris.deps.json
+C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\aris.runtimeconfig.json
+C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\aris.dll
+C:\Users\plays\OneDrive\Desktop\aris\bin\Release\net6.0\aris.pdb
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.csproj.AssemblyReference.cache
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.AssemblyInfoInputs.cache
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.AssemblyInfo.cs
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.csproj.CoreCompileInputs.cache
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.dll
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\refint\aris.dll
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.pdb
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\aris.genruntimeconfig.cache
+C:\Users\plays\OneDrive\Desktop\aris\obj\Release\net6.0\ref\aris.dll
